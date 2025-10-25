@@ -94,7 +94,7 @@ pip or conda
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/doordash-delivery-time-prediction.git
+git clone https://github.com/MohammedMoseena/doordash-delivery-time-prediction.git
 cd doordash-delivery-time-prediction
 ```
 
@@ -274,7 +274,7 @@ pip install -r requirements.txt
 ---
 
 ## 📖 Documentation
-- **[Jupyter Notebook](notebooks/doordash_delivery_prediction.ipynb)** - Interactive analysis and modeling
+- **[Jupyter Notebook](https://github.com/MohammedMoseena/doordash-delivery-time-prediction/blob/main/notebooks/doordash_delivery_prediction.ipynb)** - Interactive analysis and modeling
 
 ---
 
