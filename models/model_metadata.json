@@ -1,0 +1,9 @@
+{
+  "train_date": "2025-10-25",
+  "mae_minutes": 10.938033669069053,
+  "accuracy_rate": 58.00005072151353,
+  "extreme_error_rate": 4.940275417818468,
+  "n_training_samples": 157720,
+  "n_test_samples": 39431,
+  "n_features": 19
+}
