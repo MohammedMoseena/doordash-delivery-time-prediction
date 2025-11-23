@@ -376,7 +376,7 @@ statsmodels==0.14.5
 
 ## 📖 Documentation & Resources
 
-- **[📓 Jupyter Notebook]()** - Complete analysis with step-by-step explanations
+- **[📓 Jupyter Notebook](https://github.com/MohammedMoseena/doordash-delivery-time-prediction/blob/main/notebooks/doordash_delivery_prediction.ipynb)** - Complete analysis with step-by-step explanations
 - **[📝 Medium Article](https://medium.com/@mdmoseena22/doordash-delivery-time-prediction-fc633580e9f8)** - Detailed writeup with business insights
 
 ---
